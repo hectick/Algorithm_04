@@ -15,16 +15,17 @@
 ![주석 2020-05-30 150727](https://user-images.githubusercontent.com/62106852/83321228-12ed9200-a289-11ea-84a5-5459b1ba51c7.png)
 
 
-1. Model <MODEL 2 : 3 Layers with 1 Convolution layer>
-
+1. Model <MODEL 2 : 5 Layers with 1 Maxpool layer>
+![모델2_1](https://user-images.githubusercontent.com/62106852/83322105-fb65d780-a28f-11ea-9a37-c3d9c4403f5c.png)
 
 2. Training with Training loss <Traning Step, Training for 5 epochs>
+![모델2_2](https://user-images.githubusercontent.com/62106852/83322107-fbfe6e00-a28f-11ea-8a09-93950d09f043.png)
 
 3. Test Accuracy
-
+![모델2_3](https://user-images.githubusercontent.com/62106852/83322104-facd4100-a28f-11ea-9d3a-ebe8d9cb87f1.png)
 
 4. Images and corresponding probability that predicted Right
-
+![모델2_4](https://user-images.githubusercontent.com/62106852/83322112-fef95e80-a28f-11ea-9341-9d56faa7c8fc.png)
 
 5. Images and corresponding probability that predicted Wrong
-
+![모델2_5](https://user-images.githubusercontent.com/62106852/83322110-fe60c800-a28f-11ea-9d96-59f0e394511b.png)
