@@ -1,6 +1,7 @@
 # Algorithm_04
 
 1. Model <MODEL 1 : 3 Layers with 1 Convolution layer>
+![주석 2020-05-30 152932](https://user-images.githubusercontent.com/62106852/83321409-79bf7b00-a28a-11ea-8e27-b336a1e6493a.png)
 
 2. Training with Training loss <Traning Step, Training for 5 epochs>
 ![주석 2020-05-30 152623](https://user-images.githubusercontent.com/62106852/83321359-fef66000-a289-11ea-8f6a-1a8b81167c05.png)
