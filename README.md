@@ -30,11 +30,14 @@
 
 1. Model <MODEL 2 : 7 Layers with 1 Dense(fully-connected) layer>
 
+![모델3_1](https://user-images.githubusercontent.com/62106852/83322404-47b21700-a292-11ea-8fdd-d3c82a272a3c.png)
 2. Training with Training loss <Traning Step, Training for 5 epochs>
-
+![모델3_2](https://user-images.githubusercontent.com/62106852/83322405-48e34400-a292-11ea-9b26-9bfd4ad780f5.png)
 3. Test Accuracy
-
+![모델3_3](https://user-images.githubusercontent.com/62106852/83322406-4b459e00-a292-11ea-80fd-b7d0530ddfd1.png)
 4. Images and corresponding probability that predicted Right
-
+![모델3_4](https://user-images.githubusercontent.com/62106852/83322407-4d0f6180-a292-11ea-86ba-d9e94d77eca7.png)
 5. Images and corresponding probability that predicted Wrong
+![모델3_5](https://user-images.githubusercontent.com/62106852/83322409-4ed92500-a292-11ea-917c-98fccedbde4f.png)
+
 
