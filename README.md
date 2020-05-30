@@ -2,7 +2,7 @@
 
 
 
-1. Model
+1. Model\n
 MODEL 1 : 3 Layers with 1 Convolution layer
 
 2. Training with Training loss
