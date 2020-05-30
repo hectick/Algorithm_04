@@ -25,7 +25,6 @@
 
 4. Images and corresponding probability that predicted Right
 ![모델2_4](https://user-images.githubusercontent.com/62106852/83322112-fef95e80-a28f-11ea-9341-9d56faa7c8fc.png)
-
 5. Images and corresponding probability that predicted Wrong
 ![모델2_5](https://user-images.githubusercontent.com/62106852/83322110-fe60c800-a28f-11ea-9d96-59f0e394511b.png)
 
