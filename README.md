@@ -2,7 +2,7 @@
 
 
 
-1. Model\n
+1. Model
 MODEL 1 : 3 Layers with 1 Convolution layer
 
 2. Training with Training loss
@@ -11,3 +11,7 @@ Training for 5 epochs
 
 
 3. Test Accuracy
+
+4. Images and corresponding probability that predicted Right
+
+5. Images and corresponding probability that predicted Wrong
